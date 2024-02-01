@@ -1,2 +1,2 @@
-Website đạt giải khuyến khích bảng C cuộc thi [Hutech IT Got Talent 2023](https://itgottalent.hutech.edu.vn/). Để biết thêm về project này hãy đọc file readme.pdf
+CoderLab là website học lập trình, biên dịch và chấm điểm code trực tuyến tích hợp CHATGPT hỗ trợ tối ưu thuật toán với hơn 50 ngôn ngữ lập trình phổ biến. Công nghệ chính sử dụng Spring Boot & MYSQL. Website đã đạt giải khuyến khích bảng C cuộc thi [Hutech IT Got Talent 2023](https://itgottalent.hutech.edu.vn/). Để biết thêm về project này hãy đọc file readme.pdf
 hoặc [xem video demo](https://www.youtube.com/watch?v=UWzyVztvi8k)
